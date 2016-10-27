@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 1379,
+		"Url": "https://www.openbadgeacademy.com//badge/1379",
+		"Name": "Circular Saw",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/1379/o_1au80gdi71138l1i1hks1okrg1ra_1024__io.png",
+		"ImageID": 4951,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has attended a full demonstration of correct tool use. They have demonstrated on multiple occasions the correct and safe use of a Circular saw. They have shown knowledge of basic maintenance of this tool including changing a saw blade. They are competent to use this tool in the workshop environment.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/1379",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 2289,
+			"Title": "Circular saw",
+			"Summary": "",
+			"Body": "Upload 2 photographs/videos demonstrating the safe use of a circular saw.",
+			"HtmlBody": "Upload 2 photographs/videos demonstrating the safe use of a circular saw.",
+			"TextileBody": "Upload 2 photographs/videos demonstrating the safe use of a circular saw.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 2290,
+			"Title": "Blade change",
+			"Summary": "",
+			"Body": "Upload 1 photograph/video showing a blade change.",
+			"HtmlBody": "Upload 1 photograph/video showing a blade change.",
+			"TextileBody": "Upload 1 photograph/video showing a blade change.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
