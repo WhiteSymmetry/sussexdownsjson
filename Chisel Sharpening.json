@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 1382,
+		"Url": "https://www.openbadgeacademy.com//badge/1382",
+		"Name": "Chisel Sharpening",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/1382/o_1au80v4gqhcqd7c1dm86ud4b0a_1024__io.png",
+		"ImageID": 4955,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has demonstrated safe and correct chisel sharpening. They have maintained their chisels, keeping them sharp.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/1382",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 2295,
+			"Title": "Chisel sharpening",
+			"Summary": "",
+			"Body": "Upload a photograph/video demonstrating safe sharpening technique.",
+			"HtmlBody": "Upload a photograph/video demonstrating safe sharpening technique.",
+			"TextileBody": "Upload a photograph/video demonstrating safe sharpening technique.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 2296,
+			"Title": "Chisel maintenance",
+			"Summary": "",
+			"Body": "Upload a photograph/video showing that your chisels are maintained.",
+			"HtmlBody": "Upload a photograph/video showing that your chisels are maintained.",
+			"TextileBody": "Upload a photograph/video showing that your chisels are maintained.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
