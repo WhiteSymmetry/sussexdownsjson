@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 1383,
+		"Url": "https://www.openbadgeacademy.com//badge/1383",
+		"Name": "Straight cut",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/1383/o_1au812huma5k1tt1o8r6ic1kjoa_1024__io.png",
+		"ImageID": 4956,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has demonstrated safe and correct chisel sharpening. They have maintained their chisels, keeping them sharp. The earner of this badge has demonstrated safe and correct sawing technique and can cut straight.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/1383",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 2297,
+			"Title": "Straight cut",
+			"Summary": "",
+			"Body": "Upload a video demonstrating a straight cut safely.",
+			"HtmlBody": "Upload a video demonstrating a straight cut safely.",
+			"TextileBody": "Upload a video demonstrating a straight cut safely.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 2455,
+			"Title": "",
+			"Summary": "",
+			"Body": "",
+			"HtmlBody": "",
+			"TextileBody": "",
+			"StatusID": 30,
+			"TaskMediaTypeID": 9
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
