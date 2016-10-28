@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 1372,
+		"Url": "https://www.openbadgeacademy.com//badge/1372",
+		"Name": "Thicknesser",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/1372/o_1au7vkee41cu4ejp1rnt62rbpma_1024__io.png",
+		"ImageID": 4944,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has attended a full demonstration of correct machine use. They have demonstrated on multiple occasions the correct and safe use of a thicknesser. They have shown knowledge of basic maintenance of this machine including changing a blade. They are competent to use this tool in the workshop environment.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/1372",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 2274,
+			"Title": "Thicknesser",
+			"Summary": "",
+			"Body": "Upload 2 photographs/videos demonstrating safe use of a thicknesser.",
+			"HtmlBody": "Upload 2 photographs/videos demonstrating safe use of a thicknesser.",
+			"TextileBody": "Upload 2 photographs/videos demonstrating safe use of a thicknesser.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 2275,
+			"Title": "Blade change",
+			"Summary": "",
+			"Body": "Upload 1 photograph/video showing a thicknesser blade change.",
+			"HtmlBody": "Upload 1 photograph/video showing a thicknesser blade change.",
+			"TextileBody": "Upload 1 photograph/video showing a thicknesser blade change.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
