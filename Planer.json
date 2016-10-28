@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 1374,
+		"Url": "https://www.openbadgeacademy.com//badge/1374",
+		"Name": "Planer",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/1374/o_1au7vu6bu40s1nf81vn68pu1t36a_1024__io.png",
+		"ImageID": 4946,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has attended a full demonstration of correct machine use. They have demonstrated on multiple occasions the correct and safe use of an overhand planer. They have shown knowledge of basic maintenance of this machine including changing a blade. They are competent to use this tool in the workshop environment.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/1374",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 2279,
+			"Title": "Planer",
+			"Summary": "",
+			"Body": "Upload 2 photographs/videos demonstrating the safe use of a planer.",
+			"HtmlBody": "Upload 2 photographs/videos demonstrating the safe use of a planer.",
+			"TextileBody": "Upload 2 photographs/videos demonstrating the safe use of a planer.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 2280,
+			"Title": "Blade change",
+			"Summary": "",
+			"Body": "Upload 1 photograph/video showing a blade change.",
+			"HtmlBody": "Upload 1 photograph/video showing a blade change.",
+			"TextileBody": "Upload 1 photograph/video showing a blade change.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
