@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 1371,
+		"Url": "https://www.openbadgeacademy.com//badge/1371",
+		"Name": "Site Foreman",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/1371/o_1au7velctejg1ba415erjjm1c76a_1024__io.png",
+		"ImageID": 4943,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has demonstrated that they can be an effective site foreman within the workshop environment. This includes the management of Health and Safety and housekeeping.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/1371",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 2272,
+			"Title": "Site foreman",
+			"Summary": "",
+			"Body": "Upload a picture or video of yourself working as site foreman.",
+			"HtmlBody": "Upload a picture or video of yourself working as site foreman.",
+			"TextileBody": "Upload a picture or video of yourself working as site foreman.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 11
+		}, {
+			"TaskID": 2273,
+			"Title": "Site foreman",
+			"Summary": "",
+			"Body": "Upload a written statement from your lecturer confirming your successful completion of site foreman duties.",
+			"HtmlBody": "Upload a written statement from your lecturer confirming your successful completion of site foreman duties.",
+			"TextileBody": "Upload a written statement from your lecturer confirming your successful completion of site foreman duties.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 12
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
