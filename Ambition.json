@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 883,
+		"Url": "https://www.openbadgeacademy.com//badge/883",
+		"Name": "Ambition",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/883/o_1aj1trggr1btav83r4t1mjrpria_1024__io.png",
+		"ImageID": 2066,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has demonstrated they have a strong determination to succeed. During induction they have demonstrated they have high aspirations of themselves and have a plan to achieve their goals.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/883",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "Work readiness,Professionalism,Age 16+",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 1207,
+			"Title": "Apirations",
+			"Summary": "",
+			"Body": "Complete your ‘My Goals’ page on ProPortal.If you’re outside of College, use your 6-digit userid and password to login.",
+			"HtmlBody": "Complete your ‘My Goals’ page on <a href=/interceptor[strUrl=https(colon)(slash)(slash)proportal(dot)sussexdowns(dot)ac(dot)uk(slash)]>ProPortal</a>.<br/><br/>If you’re outside of College, use your 6-digit userid and password to login.",
+			"TextileBody": "Complete your ‘My Goals’ page on [\"ProPortal\":https://proportal.sussexdowns.ac.uk/].&#13;&#10;&#13;&#10;If you’re outside of College, use your 6-digit userid and password to login.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 1997,
+			"Title": "Play the Game",
+			"Summary": "",
+			"Body": "Play ‘The Game’ and find out your ideal career. Upload a screenshot of your final profile.",
+			"HtmlBody": "Play ‘<a href=/interceptor[strUrl=https(colon)(slash)(slash)www(dot)plotr(dot)co(dot)uk(slash)game(slash)]>The Game’</a> and find out your ideal career. Upload a screenshot of your final profile.",
+			"TextileBody": "Play ‘[\"The Game’\":https://www.plotr.co.uk/game/] and find out your ideal career. Upload a screenshot of your final profile.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
