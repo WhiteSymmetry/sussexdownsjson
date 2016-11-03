@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 798,
+		"Url": "https://www.openbadgeacademy.com//badge/798",
+		"Name": "Salon Management - Manage Quality",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/798/o_1ahfbnfskbq1vc01snb1t5t1feda_1024__io.png",
+		"ImageID": 1801,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has demonstrated they can evaluate, review and improve the overall client experience. They can develop a quality improvement plan and quality management procedures to achieve and exceed industry standards.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/798",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 1752,
+			"Title": "Client journey",
+			"Summary": "",
+			"Body": "Upload a flow chart showing a client’s journey within the business.",
+			"HtmlBody": "Upload a flow chart showing a client’s journey within the business.",
+			"TextileBody": "Upload a flow chart showing a client’s journey within the business.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 1753,
+			"Title": "Gold standard",
+			"Summary": "",
+			"Body": "Upload your quality plan including a client’s journey Gold Standard including complaint management procedures.",
+			"HtmlBody": "Upload your quality plan including a client’s journey Gold Standard including complaint management procedures.",
+			"TextileBody": "Upload your quality plan including a client’s journey Gold Standard including complaint management procedures.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
