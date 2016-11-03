@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 888,
+		"Url": "https://www.openbadgeacademy.com//badge/888",
+		"Name": "Learning Ready",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/888/o_1aj1v0abg8qvjlrso1l6b12dci_1024__io.png",
+		"ImageID": 2073,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has demonstrated they well organised, prepared, on time, with high attendance and are ready to engage in learning. During induction, they have shown how they will use their free periods and how they record deadlines and schedule time to meet their commitments.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/888",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "Work readiness,Professional development,Personal development,Professionalism,Further Education,Age 16+",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 1215,
+			"Title": "Timetable",
+			"Summary": "",
+			"Body": "Upload a scan of your timetable with annotations showing how you will use each of your free periods.",
+			"HtmlBody": "Upload a scan of your timetable with annotations showing how you will use each of your free periods.",
+			"TextileBody": "Upload a scan of your timetable with annotations showing how you will use each of your free periods.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 11
+		}, {
+			"TaskID": 1216,
+			"Title": "Recording deadlines",
+			"Summary": "",
+			"Body": "Upload a scan or screenshot demonstrating how you record deadlines and plan your time to meet them.",
+			"HtmlBody": "Upload a scan or screenshot demonstrating how you record deadlines and plan your time to meet them.",
+			"TextileBody": "Upload a scan or screenshot demonstrating how you record deadlines and plan your time to meet them.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 11
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
