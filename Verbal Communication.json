@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 858,
+		"Url": "https://www.openbadgeacademy.com//badge/858",
+		"Name": "Verbal Communication",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/858/o_1ai8t16731lms1fc983gprsb5ja_1024__io.png",
+		"ImageID": 1950,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has demonstrated they can communicate effectively verbally.They are able to introduce themselves with clarity and confidence, and can vary the volume and pace of their voice effectively according to the situation.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/858",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "Personal communication,Business communication,Further Education",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 1415,
+			"Title": "Hello world",
+			"Summary": "",
+			"Body": "Upload a 2 minute video clip introducing yourself, describing the skills you have and explaining how they're valuable to an employer.",
+			"HtmlBody": "Upload a 2 minute video clip introducing yourself, describing the skills you have and explaining how they're valuable to an employer.",
+			"TextileBody": "Upload a 2 minute video clip introducing yourself, describing the skills you have and explaining how they're valuable to an employer.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 1416,
+			"Title": "Great to meet you",
+			"Summary": "",
+			"Body": "Upload a 2 minute video/audio clip demonstrating an interaction with someone. This could be dealing with a customer (in person or via telephone), interviewing a peer, colleague or tutor.",
+			"HtmlBody": "Upload a 2 minute video/audio clip demonstrating an interaction with someone. This could be dealing with a customer (in person or via telephone), interviewing a peer, colleague or tutor.",
+			"TextileBody": "Upload a 2 minute video/audio clip demonstrating an interaction with someone. This could be dealing with a customer (in person or via telephone), interviewing a peer, colleague or tutor.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
