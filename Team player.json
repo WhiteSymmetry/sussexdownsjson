@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 887,
+		"Url": "https://www.openbadgeacademy.com//badge/887",
+		"Name": "Team Player",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/887/o_1aj1ue2cnnc5acsd617gg1loaa_1024__io.png",
+		"ImageID": 2072,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has demonstrated they enjoy and value collaborating and learning with their peers. During induction, they have shown they can work well with others to complete a task.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/887",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "Work readiness,Professional development,Professionalism,Team working,Further Education,Age 16+",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 1213,
+			"Title": "The task",
+			"Summary": "",
+			"Body": "Describe a task where you worked effectively as a team member. Within that task, what did you do? Mention any examples of how you helped to resolve conflict, boosted the team's morale and/or supported/encouraged another member of your team.",
+			"HtmlBody": "Describe a task where you worked effectively as a team member. Within that task, what did you do? Mention any examples of how you helped to resolve conflict, boosted the team's morale and/or supported/encouraged another member of your team.",
+			"TextileBody": "Describe a task where you worked effectively as a team member. Within that task, what did you do? Mention any examples of how you helped to resolve conflict, boosted the team's morale and/or supported/encouraged another member of your team.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 1214,
+			"Title": "The feedback",
+			"Summary": "",
+			"Body": "Upload a video / audio testimonial of a team member on the same task describing how you worked as a team member. They may like to comment on what strengths you brought to the team, how well you worked with others, and what support you gave to the team members.",
+			"HtmlBody": "Upload a video / audio testimonial of a team member on the same task describing how you worked as a team member. They may like to comment on what strengths you brought to the team, how well you worked with others, and what support you gave to the team members.",
+			"TextileBody": "Upload a video / audio testimonial of a team member on the same task describing how you worked as a team member. They may like to comment on what strengths you brought to the team, how well you worked with others, and what support you gave to the team members.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
