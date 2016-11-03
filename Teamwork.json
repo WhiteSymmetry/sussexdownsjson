@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 851,
+		"Url": "https://www.openbadgeacademy.com//badge/851",
+		"Name": "Teamwork",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/851/o_1ai8r8aa31hhb1fi41r6v1a3st4qa_1024__io.png",
+		"ImageID": 1944,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has demonstrated that they can work effectively in a team. They play an active role within the team and take a fair share of the workload. They can help resolve conflict and maintain the team’s overall morale.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/851",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "Team working,Further Education",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 1422,
+			"Title": "The project",
+			"Summary": "",
+			"Body": "Describe a project where you worked as a team member. Within that project, state how you met your objectives and how they fitted in with the overall team objectives. List any examples of how you helped to resolve conflict and/or maintain morale.",
+			"HtmlBody": "Describe a project where you worked as a team member. Within that project, state how you met your objectives and how they fitted in with the overall team objectives. List any examples of how you helped to resolve conflict and/or maintain morale.",
+			"TextileBody": "Describe a project where you worked as a team member. Within that project, state how you met your objectives and how they fitted in with the overall team objectives. List any examples of how you helped to resolve conflict and/or maintain morale.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 1423,
+			"Title": "The testimonial",
+			"Summary": "",
+			"Body": "Upload a video testimonial of a team member on the project from task 1 describing how you worked as part of the team. They may like to comment on what strengths you brought to the team, how well you worked with others, and what support you gave to the team members.",
+			"HtmlBody": "Upload a video testimonial of a team member on the project from task 1 describing how you worked as part of the team. They may like to comment on what strengths you brought to the team, how well you worked with others, and what support you gave to the team members.",
+			"TextileBody": "Upload a video testimonial of a team member on the project from task 1 describing how you worked as part of the team. They may like to comment on what strengths you brought to the team, how well you worked with others, and what support you gave to the team members.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
