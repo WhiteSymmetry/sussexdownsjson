@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 886,
+		"Url": "https://www.openbadgeacademy.com//badge/886",
+		"Name": "Risk Taker",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/886/o_1aj1u9ukhhfaade152t1m01alpa_1024__io.png",
+		"ImageID": 2071,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has demonstrated they are confident to take risks with their learning. They know the importance of failure and learn from mistakes. During induction they have shown that they are open to new challenges and take part in activities that move them beyond their comfort zone.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/886",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "Work readiness,Professional development,Personal development,Professionalism,Further Education,Age 16+",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 1211,
+			"Title": "Fail",
+			"Summary": "",
+			"Body": "Describe something that you attempted even though you knew you might fail. What happened and what did you learn from the experience?",
+			"HtmlBody": "Describe something that you attempted even though you knew you might <strong>fail</strong>. What happened and what did you learn from the experience?",
+			"TextileBody": "Describe something that you attempted even though you knew you might *fail*. What happened and what did you learn from the experience?",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 1212,
+			"Title": "Pushing the envelope",
+			"Summary": "",
+			"Body": "Upload a 2 minute video demonstrating or describing a learning activity where you were outside of your comfort zone, for example giving a presentation.",
+			"HtmlBody": "Upload a 2 minute video demonstrating or describing a learning activity where you were outside of your comfort zone, for example giving a presentation.",
+			"TextileBody": "Upload a 2 minute video demonstrating or describing a learning activity where you were outside of your comfort zone, for example giving a presentation.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 9
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
