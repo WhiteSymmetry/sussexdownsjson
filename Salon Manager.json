@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 804,
+		"Url": "https://www.openbadgeacademy.com//badge/804",
+		"Name": "Salon Management - Salon Manager",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/804/o_1ahff8rj0110m6093qq1ji61ogpa_1024__io.png",
+		"ImageID": 1807,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has demonstrated they can effectively manage a salon. They can perform all the key elements of managing a salon including health and safety, quality, HR, sales & marketing, design and PR. Additionally, they can effectively manage the day to day operational issues such as staffing, stock control and resolving issues.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/804",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 1758,
+			"Title": "Business plan",
+			"Summary": "",
+			"Body": "Upload your business plan including examples of rotas, stock control and a recent example of problem solving.",
+			"HtmlBody": "Upload your business plan including examples of rotas, stock control and a recent example of problem solving.",
+			"TextileBody": "Upload your business plan including examples of rotas, stock control and a recent example of problem solving.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 1759,
+			"Title": "Earn the badges",
+			"Summary": "",
+			"Body": "Earn the following badges:Health & SafetyManage QualityHuman ResourcesMarketingManage SalesSalon DesignerPublic Relations",
+			"HtmlBody": "Earn the following badges:<br/><br/><ul><li><a href=https://www.openbadgeacademy.com/badge/797>Health & Safety</a></li><li><a href=https://www.openbadgeacademy.com/badge/798>Manage Quality</a></li><li><a href=https://www.openbadgeacademy.com/badge/799>Human Resources</a></li><li><a href=https://www.openbadgeacademy.com/badge/800>Marketing</a></li><li><a href=https://www.openbadgeacademy.com/badge/801>Manage Sales</a></li><li><a href=https://www.openbadgeacademy.com/badge/802>Salon Designer</a></li><li><a href=https://www.openbadgeacademy.com/badge/803>Public Relations</a></li></ul>",
+			"TextileBody": "Earn the following badges:&#13;&#10;&#13;&#10;* [\"Health & Safety\":https://www.openbadgeacademy.com/badge/797]&#13;&#10;* [\"Manage Quality\":https://www.openbadgeacademy.com/badge/798]&#13;&#10;* [\"Human Resources\":https://www.openbadgeacademy.com/badge/799]&#13;&#10;* [\"Marketing\":https://www.openbadgeacademy.com/badge/800]&#13;&#10;* [\"Manage Sales\":https://www.openbadgeacademy.com/badge/801]&#13;&#10;* [\"Salon Designer\":https://www.openbadgeacademy.com/badge/802]&#13;&#10;* [\"Public Relations\":https://www.openbadgeacademy.com/badge/803]&#13;&#10;",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
