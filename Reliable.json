@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 818,
+		"Url": "https://www.openbadgeacademy.com//badge/818",
+		"Name": "Reliable",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/818/o_1ahkj158s13441ml51p4npjs11qba_1024__io.png",
+		"ImageID": 1815,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge has demonstrated a consistent record of both attendance and punctuality over at least the past 3 months. It shows they are able to manage their time, deliver on their commitments and keep their promises.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/818",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "Work readiness,Further Education",
+		"MemberOnly": false,
+		"IssuerOnly": true,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 1432,
+			"Title": "Right here, right now",
+			"Summary": "",
+			"Body": "Upload a screenshot from iLearn showing 95% attendance and punctuality for the past 3 months.",
+			"HtmlBody": "Upload a screenshot from iLearn showing 95% attendance and punctuality for the past 3 months.",
+			"TextileBody": "Upload a screenshot from iLearn showing 95% attendance and punctuality for the past 3 months.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 1433,
+			"Title": "Count on me",
+			"Summary": "",
+			"Body": "Upload a description of how you have kept a commitment you have made. This could be from either work or personal life. Your evidence can be a video, audio clip or a written description.",
+			"HtmlBody": "Upload a description of how you have kept a commitment you have made. This could be from either work or personal life. Your evidence can be a video, audio clip or a written description.",
+			"TextileBody": "Upload a description of how you have kept a commitment you have made. This could be from either work or personal life. Your evidence can be a video, audio clip or a written description.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
