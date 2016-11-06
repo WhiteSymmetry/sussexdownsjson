@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 411,
+		"Url": "https://www.openbadgeacademy.com//badge/411",
+		"Name": "Suspension I",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/411/o_1ac0duto5er91rtp17581ang1h56a_1024_io.png",
+		"ImageID": 1038,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "Employer: This badge demonstrates the earner understands the fundamentals of suspension systems. They can inspect dampers for leaks and springs for missing coils. They are also able to measure a vehicle's ride height and replace a rear damper.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/411",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 604,
+			"Title": "Inspect",
+			"Summary": "",
+			"Body": "Upload evidence inspecing dampers for leaks and springs for missing coils",
+			"HtmlBody": "Upload evidence inspecing dampers for leaks and springs for missing coils",
+			"TextileBody": "Upload evidence inspecing dampers for leaks and springs for missing coils",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 605,
+			"Title": "Ride height",
+			"Summary": "",
+			"Body": "Upload evidence measuring a vehicle's ride height and replacing a rear damper.",
+			"HtmlBody": "Upload evidence measuring a vehicle's ride height and replacing a rear damper.",
+			"TextileBody": "Upload evidence measuring a vehicle's ride height and replacing a rear damper.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
