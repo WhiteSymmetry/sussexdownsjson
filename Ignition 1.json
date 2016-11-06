@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 415,
+		"Url": "https://www.openbadgeacademy.com//badge/415",
+		"Name": "Ignition I",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/415/o_1ag82v9fckiv1le8o6h351k9ea_1024_io.png",
+		"ImageID": 1624,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "Employer: This badge demonstrates the earner understands the fundamentals of the ignition system. They can identify the firing order and miss firing engine, replace HT leads, locate the coil and remove , inspect, gap and replace a set of spark plugs.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/415",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 612,
+			"Title": "Fire power",
+			"Summary": "",
+			"Body": "Upload evidence showing how to identify the firing order, miss firing engine and locating the coil.",
+			"HtmlBody": "Upload evidence showing how to identify the firing order, miss firing engine and locating the coil.",
+			"TextileBody": "Upload evidence showing how to identify the firing order, miss firing engine and locating the coil.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 613,
+			"Title": "Spark up",
+			"Summary": "",
+			"Body": "Upload evidence correctly replacing a set of HT leads, remove, inspect, gap and replace a set of spark plugs.",
+			"HtmlBody": "Upload evidence correctly replacing a set of HT leads, remove, inspect, gap and replace a set of spark plugs.",
+			"TextileBody": "Upload evidence correctly replacing a set of HT leads, remove, inspect, gap and replace a set of spark plugs.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
