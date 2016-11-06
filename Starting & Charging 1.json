@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 412,
+		"Url": "https://www.openbadgeacademy.com//badge/412",
+		"Name": "Starting & Charging I",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/412/o_1ac0dsfvtjsnckthki1ruu2q1a_1024_io.png",
+		"ImageID": 1037,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "Employer: This badge demonstrates the earner understands the fundamentals of ignition systems. They can replace a starter motor and alternator, adjust an accessory belt, check a battery's state of charge and replace it.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/412",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 606,
+			"Title": "Starter motors and alternators",
+			"Summary": "",
+			"Body": "Upload evidence replacing a starter motor and alternator, and show how the accessory belt is adjusted.",
+			"HtmlBody": "Upload evidence replacing a starter motor and alternator, and show how the accessory belt is adjusted.",
+			"TextileBody": "Upload evidence replacing a starter motor and alternator, and show how the accessory belt is adjusted.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 607,
+			"Title": "Battery",
+			"Summary": "",
+			"Body": "Upload evidence showing how to check a battery's state of charge and replacing an old battery with a new one.",
+			"HtmlBody": "Upload evidence showing how to check a battery's state of charge and replacing an old battery with a new one.",
+			"TextileBody": "Upload evidence showing how to check a battery's state of charge and replacing an old battery with a new one.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
