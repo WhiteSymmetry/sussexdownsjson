@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 509,
+		"Url": "https://www.openbadgeacademy.com//badge/509",
+		"Name": "Customer Service",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/509/o_1acmluaa2jvegtn1p531ulj41va_1024_io.png",
+		"ImageID": 1121,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "The earner of this badge a proven record of delivering exceptional customer service. They have received at least one written personal thank you or a named mentioned on a card or online.\"There are no traffic jams along the extra mile.\" - Roger Staubach",
+		"Criteria": "https://www.openbadgeacademy.com//badge/509",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "Professionalism,Team working,Further Education",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 744,
+			"Title": "Thank you",
+			"Summary": "",
+			"Body": "Upload evidence of any named mention from a customer. This could be from a thank you card, named mention on a website (e.g. Trip Advisor) etc.",
+			"HtmlBody": "Upload evidence of any named mention from a customer. This could be from a thank you card, named mention on a website (e.g. Trip Advisor) etc.",
+			"TextileBody": "Upload evidence of any named mention from a customer. This could be from a thank you card, named mention on a website (e.g. Trip Advisor) etc.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 745,
+			"Title": "The extra mile",
+			"Summary": "",
+			"Body": "Describe a situation where you have gone above and beyond expectations to deliver exceptional customer service.",
+			"HtmlBody": "Describe a situation where you have gone above and beyond expectations to deliver exceptional customer service.",
+			"TextileBody": "Describe a situation where you have gone above and beyond expectations to deliver exceptional customer service.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
