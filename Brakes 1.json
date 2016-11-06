@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 408,
+		"Url": "https://www.openbadgeacademy.com//badge/408",
+		"Name": "Brakes I",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/408/o_1abu310on6d5jqc15k8bla1o6pa_1024_io.png",
+		"ImageID": 1027,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "Employer: This abadge demonstrates the earner is capable of assessing drum and disc brakes for wear, replacing pads, inspecting for hydraulic leaks, bleeding brakes and can replace a hose.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/408",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 596,
+			"Title": "Drum and pads",
+			"Summary": "",
+			"Body": "Upload evidence assessing drum and disc brakes for wear and then replacing pads.",
+			"HtmlBody": "Upload evidence <strong>assessing drum and disc brakes</strong> for wear and then <strong>replacing pads</strong>.",
+			"TextileBody": "Upload evidence *assessing drum and disc brakes* for wear and then *replacing pads*.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 598,
+			"Title": "Hydraulics",
+			"Summary": "",
+			"Body": "Upload evidence for bleeding brakes, inspecting for hydraulic leaks and replacing a hose.",
+			"HtmlBody": "Upload evidence for <strong>bleeding brakes</strong>, <strong>inspecting for hydraulic leaks</strong> and <strong>replacing a hose</strong>.",
+			"TextileBody": "Upload evidence for *bleeding brakes*, *inspecting for hydraulic leaks* and *replacing a hose*.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
