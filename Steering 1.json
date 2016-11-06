@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 410,
+		"Url": "https://www.openbadgeacademy.com//badge/410",
+		"Name": "Steering I",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/410/o_1ac0g2p444r16huq6672gspna_1024_io.png",
+		"ImageID": 1039,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "Employer: This badge demonstrates the earner has demonstrated the fundamental knowledge relating to steering. This includes inspecting ball joints and steering column for free play, assessing rack gaiters, topping up a PAS system and replacing a track rod end.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/410",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 602,
+			"Title": "Free play",
+			"Summary": "",
+			"Body": "Upload evidence inspecting ball joints and steering column for free play.",
+			"HtmlBody": "Upload evidence inspecting ball joints and steering column for free play.",
+			"TextileBody": "Upload evidence inspecting ball joints and steering column for free play.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 603,
+			"Title": "Assess and fix",
+			"Summary": "",
+			"Body": "Upload evidence assessing rack gaiters, topping up a PAS system and replacing a track rod end.",
+			"HtmlBody": "Upload evidence assessing rack gaiters, topping up a PAS system and replacing a track rod end.",
+			"TextileBody": "Upload evidence assessing rack gaiters, topping up a PAS system and replacing a track rod end.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
