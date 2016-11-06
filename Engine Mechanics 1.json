@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 417,
+		"Url": "https://www.openbadgeacademy.com//badge/417",
+		"Name": "Engine Mechanics I",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/417/o_1ac0djv3r128r15or1kni1ap9lgfa_1024_io.png",
+		"ImageID": 1032,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "Employer: This badge demonstrates the earner understands the fundamentals of engine mechanics. It demonstrates they are able to drain engine oil, replace and oil filter; carry out valve clearance adjustments and replace and tension an accessory belt. They are also able to inspect engine mounts and locate an oil leak.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/417",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 616,
+			"Title": "Getting oily",
+			"Summary": "",
+			"Body": "Upload evidence showing how to locate an oil leak, drain engine oil and replace an oil filter.",
+			"HtmlBody": "Upload evidence showing how to <strong>locate an oil leak</strong>, drain <strong>engine oil</strong> and <strong>replace an oil filter</strong>.",
+			"TextileBody": "Upload evidence showing how to *locate an oil leak*, drain *engine oil* and *replace an oil filter*.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 617,
+			"Title": "Valves, belts and mounts",
+			"Summary": "",
+			"Body": "Upload evidence adjusting valve clearance, replacing and tensioning an accessory belt and inspecting engine mounts.",
+			"HtmlBody": "Upload evidence adjusting <strong>valve clearance</strong>, replacing and tensioning an <strong>accessory belt</strong> and inspecting <strong>engine mounts</strong>.",
+			"TextileBody": "Upload evidence adjusting *valve clearance*, replacing and tensioning an *accessory belt* and inspecting *engine mounts*.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
