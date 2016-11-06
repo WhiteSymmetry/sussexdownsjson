@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 413,
+		"Url": "https://www.openbadgeacademy.com//badge/413",
+		"Name": "Electrical I",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/413/o_1ac0dqciol2n1l9v1hon1jhc10dia_1024_io.png",
+		"ImageID": 1036,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "Employer: This badge demonstrates the earner understands the fundamentals of the electrical systems. They can inspect bulbs, wipers and fuses; replace bulbs and fuses and make a soldered joint.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/413",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 608,
+			"Title": "Lights, wipes and fuses",
+			"Summary": "",
+			"Body": "Upload evidence inspecting head and tail light bulbs, wipers and fuses.",
+			"HtmlBody": "Upload evidence inspecting head and tail light bulbs, wipers and fuses.",
+			"TextileBody": "Upload evidence inspecting head and tail light bulbs, wipers and fuses.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 609,
+			"Title": "Soldering",
+			"Summary": "",
+			"Body": "Upload evidence replacing head and tail bulbs and making a soldered joint.",
+			"HtmlBody": "Upload evidence replacing head and tail bulbs and making a soldered joint.",
+			"TextileBody": "Upload evidence replacing head and tail bulbs and making a soldered joint.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
