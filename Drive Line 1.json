@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 418,
+		"Url": "https://www.openbadgeacademy.com//badge/418",
+		"Name": "Drive Line I",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/418/o_1ac0di8ecrhi8re1hftd0q109a_1024_io.png",
+		"ImageID": 1031,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "Employer: This badge demonstrates the earner understands the fundamentals of the main drive line and gearbox. It demonstrates they are able to drain and refill the gearbox oil, inspect driveline assemblies for leaks, check clutch free plat, remove a drive shaft and access wheel bearings.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/418",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 618,
+			"Title": "Gearboxing",
+			"Summary": "",
+			"Body": "Upload evidence accessing wheel bearings, and the draining and refilling gearbox oil.",
+			"HtmlBody": "Upload evidence accessing wheel bearings, and the draining and refilling gearbox oil.",
+			"TextileBody": "Upload evidence accessing wheel bearings, and the draining and refilling gearbox oil.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 619,
+			"Title": "Drive shafts",
+			"Summary": "",
+			"Body": "Upload evidence inspecting drivelines for leaks, removing a drive shaft and checking clutch for free play.",
+			"HtmlBody": "Upload evidence inspecting drivelines for leaks, removing a drive shaft and checking clutch for free play.",
+			"TextileBody": "Upload evidence inspecting drivelines for leaks, removing a drive shaft and checking clutch for free play.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
