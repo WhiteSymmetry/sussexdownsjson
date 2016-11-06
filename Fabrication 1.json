@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 419,
+		"Url": "https://www.openbadgeacademy.com//badge/419",
+		"Name": "Fabrication I",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/419/o_1ac0dg5l4ft0165i1i9o12jroo3a_1024_io.png",
+		"ImageID": 1030,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "Employer: This badge demonstrates the earner understands the fundamentals of the fabrication. It demonstrates they are able to accurately measure and mark out, use a hack saw, tap and die. It shows they are able to read a technical drawing, produce a good finish, cut accurate lines and produce square edges.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/419",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 620,
+			"Title": "Mark out and drill",
+			"Summary": "",
+			"Body": "Upload evidence accurately measuring and mark out and using a hack saw, drill, tap and die.",
+			"HtmlBody": "Upload evidence accurately measuring and mark out and using a hack saw, drill, tap and die.",
+			"TextileBody": "Upload evidence accurately measuring and mark out and using a hack saw, drill, tap and die.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 621,
+			"Title": "Clean lines and edges",
+			"Summary": "",
+			"Body": "Upload evidence reading a technical drawing, producing a good finish and cutting accurate lines and produce square edges.",
+			"HtmlBody": "Upload evidence reading a technical drawing, producing a good finish and cutting accurate lines and produce square edges.",
+			"TextileBody": "Upload evidence reading a technical drawing, producing a good finish and cutting accurate lines and produce square edges.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
