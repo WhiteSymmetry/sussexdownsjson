@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 416,
+		"Url": "https://www.openbadgeacademy.com//badge/416",
+		"Name": "Cooling, Heating & Air Con I",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/416/o_1ac0dmcs613it1gih12co1tj0qc8n_1024_io.png",
+		"ImageID": 1034,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "Employer: This badge demonstrates the earner understands the fundamentals of the cooling, heating & air conditioning system. It demonstrates they are able to test the strength of the coolant, drain and refill a cooling system, and inspect radiator and hoses. They can also run up engine to check thermostat and cooling fan operation.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/416",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 614,
+			"Title": "Be cool",
+			"Summary": "",
+			"Body": "Upload evidence testing strength of coolant, inspect radiator and hoses, and drain and refill cooling system.",
+			"HtmlBody": "Upload evidence testing strength of coolant, inspect radiator and hoses, and drain and refill cooling system.",
+			"TextileBody": "Upload evidence testing strength of coolant, inspect radiator and hoses, and drain and refill cooling system.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 615,
+			"Title": "Stats and fan",
+			"Summary": "",
+			"Body": "Upload evidence checking thermostat and cooling fan operation.",
+			"HtmlBody": "Upload evidence checking thermostat and cooling fan operation.",
+			"TextileBody": "Upload evidence checking thermostat and cooling fan operation.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
