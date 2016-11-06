@@ -1,0 +1,53 @@
+{
+	"Name": "v2-badgedetail",
+	"RecordCount": 1,
+	"BadgeDetail": [{
+		"BadgeDetailID": 414,
+		"Url": "https://www.openbadgeacademy.com//badge/414",
+		"Name": "Fuel & Exhaust I",
+		"ImageUrl": "https://obaprod.s3-eu-west-1.amazonaws.com/fw/cm/image/44/414/o_1ac0dov0f1voj7fc1g661oh613haa_1024_io.png",
+		"ImageID": 1035,
+		"BadgeIssuerID": 10,
+		"LikeCount": 0,
+		"OBIEnabled": true,
+		"UserAwardCount": 0,
+		"BadgeSubmissionID": 0,
+		"Description": "Employer: This badge demonstrates the earner understands the fundamentals of the fuel system. They can inspect fuel lines, exhaust mounts and the tank; and replace fuel filters, exhaust sections and air filters.",
+		"Criteria": "https://www.openbadgeacademy.com//badge/414",
+		"StatusID": 30,
+		"TypeID": 1,
+		"MetaData": "",
+		"MemberOnly": true,
+		"IssuerOnly": false,
+		"Joined": false,
+		"JoinEnabled": true,
+		"TaskCount": 2,
+		"CanAward": false,
+		"BadgeSubmissionStatusID": 0,
+		"BadgeIssuerName": "Sussex Downs College",
+		"EndorsementCount": 0,
+		"EndorsementAddEnabled": false,
+		"SendBackEnabled": false,
+		"Task": [{
+			"TaskID": 610,
+			"Title": "Inspection",
+			"Summary": "",
+			"Body": "Upload evidence inspecting fuel lines, exhaust mounts and the fuel tank.",
+			"HtmlBody": "Upload evidence inspecting fuel lines, exhaust mounts and the fuel tank.",
+			"TextileBody": "Upload evidence inspecting fuel lines, exhaust mounts and the fuel tank.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}, {
+			"TaskID": 611,
+			"Title": "Replace",
+			"Summary": "",
+			"Body": "Upload evidence replacing a fuel filter, exhaust section and an air filter.",
+			"HtmlBody": "Upload evidence replacing a fuel filter, exhaust section and an air filter.",
+			"TextileBody": "Upload evidence replacing a fuel filter, exhaust section and an air filter.",
+			"StatusID": 30,
+			"TaskMediaTypeID": 0
+		}]
+	}],
+	"Status": "Completed",
+	"StatusCode": 200
+}
